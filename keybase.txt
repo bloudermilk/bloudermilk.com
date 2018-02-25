@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/bloudermilk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.bloudermilk.com
+  * I am bloudermilk (https://keybase.io/bloudermilk) on keybase.
+  * I have a public key ASA7WNtFnujdzVc8uhcpO_W4I4fyARNaMmhshdQroK4NRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bca4bca1b6c76421106d19e52273dc0bbbf1f0e8c6307d1f378ade4f25eac57f0a",
+      "host": "keybase.io",
+      "kid": "01203b58db459ee8ddcd573cba17293bf5b82387f201135a32686c85d42ba0ae0d460a",
+      "uid": "896c76f97129e82fe7eb437f5febcd19",
+      "username": "bloudermilk"
+    },
+    "merkle_root": {
+      "ctime": 1519601855,
+      "hash": "d951760ed88d6cdae8713fb9b6453f4c3756c3fd71cfb667fa64b44db9030719d55843c3b500c168cfaa7a73441de1af7a8c575d86bf577477de903cf639c603",
+      "hash_meta": "2d6c35a10e9e2bd65e25562d69a1f7c363a541aa73f15707627692bccc8531e7",
+      "seqno": 2151695
+    },
+    "service": {
+      "hostname": "www.bloudermilk.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519601874,
+  "expire_in": 504576000,
+  "prev": "7ef3ce28269091149ed1ea9e0ed0c50642441e8502fa71fb83afe9c15b6b19e3",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgO1jbRZ7o3c1XPLoXKTv1uCOH8gETWjJobIXUK6CuDUYKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYmNhNGJjYTFiNmM3NjQyMTEwNmQxOWU1MjI3M2RjMGJiYmYxZjBlOGM2MzA3ZDFmMzc4YWRlNGYyNWVhYzU3ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2I1OGRiNDU5ZWU4ZGRjZDU3M2NiYTE3MjkzYmY1YjgyMzg3ZjIwMTEzNWEzMjY4NmM4NWQ0MmJhMGFlMGQ0NjBhIiwidWlkIjoiODk2Yzc2Zjk3MTI5ZTgyZmU3ZWI0MzdmNWZlYmNkMTkiLCJ1c2VybmFtZSI6ImJsb3VkZXJtaWxrIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE5NjAxODU1LCJoYXNoIjoiZDk1MTc2MGVkODhkNmNkYWU4NzEzZmI5YjY0NTNmNGMzNzU2YzNmZDcxY2ZiNjY3ZmE2NGI0NGRiOTAzMDcxOWQ1NTg0M2MzYjUwMGMxNjhjZmFhN2E3MzQ0MWRlMWFmN2E4YzU3NWQ4NmJmNTc3NDc3ZGU5MDNjZjYzOWM2MDMiLCJoYXNoX21ldGEiOiIyZDZjMzVhMTBlOWUyYmQ2NWUyNTU2MmQ2OWExZjdjMzYzYTU0MWFhNzNmMTU3MDc2Mjc2OTJiY2NjODUzMWU3Iiwic2Vxbm8iOjIxNTE2OTV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmJsb3VkZXJtaWxrLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ0In0sImN0aW1lIjoxNTE5NjAxODc0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjdlZjNjZTI4MjY5MDkxMTQ5ZWQxZWE5ZTBlZDBjNTA2NDI0NDFlODUwMmZhNzFmYjgzYWZlOWMxNWI2YjE5ZTMiLCJzZXFubyI6MjMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RArccaC2Z7c2gQsC7V+uIfhYXo5gKH58iq1TY4GYh+LsalObcK5X0ERssQ1X144vWEBo2tJH5UHqasSoo0lhUdDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICFpoab0yOehkv0Az4qfP5BhoixR/zIjG54pbg4MKzIBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bloudermilk
+
+==================================================================
